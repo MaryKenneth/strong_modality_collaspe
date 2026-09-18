@@ -2,7 +2,7 @@
 
 Code and pre-extracted feature embeddings for the experiments in an ICLR 2027 submission on strong-modality collapse in multimodal fusion. This repository is anonymized for double-blind review.
 
-Four datasets are used in the paper: **MultiHuSE**, **MUStARD**, **UR-FUNNY**, **Food-101**. Each has its own top-level folder. Status:
+Four datasets are used in the paper: **MUStARD**, **MultiHuSE**, **UR-FUNNY**, **Food-101**. Each has its own top-level folder. Status:
 
 | Dataset | Status |
 |---|---|
